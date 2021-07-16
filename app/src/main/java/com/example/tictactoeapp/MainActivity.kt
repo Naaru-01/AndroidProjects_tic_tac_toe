@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
             Handler().postDelayed(Runnable { audio.release() } , 4000)
             val build = AlertDialog.Builder(this)
 
-            if(player1Count==2){
+            if(player1Count==10){
                 build.setTitle("  !  You Wins This Series by $player1Count - $player2Count  !")
                 build.setMessage("\n\n\n" + "Do You Want To Play Another One ?")
                 player1Count=0
