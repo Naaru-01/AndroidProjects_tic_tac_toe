@@ -1,38 +1,20 @@
-# TIC TAC TOE GAME -ANDROID 
-# XML | KOTLIN | FIREBASE | ANDROID STUDIO
+# TIC TAC TOE 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 >## PROJECT DESCRIPTION :
 
-    Hey ! What’s up ! My Name’s Narayan, I am pursuing Computer Engineering .
-
-  **-->**  Through this project I aimed to develop an android application using KOTLIN called tictoctoe.User can play in both SINGLE PLAYER and MULTIPLAYER mode and also in ONLINE MODE and OFFLINE MODE 
+  **-->**  Through this project I aimed to develop an android application using `KOTLIN` called TIC TAC TOE.
   
-  **-->**   I have used Kotlin for developing this project.
+  **-->** User can play in both SINGLE PLAYER and MULTIPLAYER mode and also in ONLINE MODE and OFFLINE MODE 
+  
+  **-->** Applied concepts of data structres and algorithms in this project.
 
-  **-->**  Firebase is used as the database for online mode which stores GAME CODE for each match and after math ends it is deleted from the Firebase real time database.
+  **-->**  `Firebase` is used as the database for online mode which stores GAME CODE for each match and after math ends it is deleted from the Firebase real time database.
 
 
-
-I experienced myself very bold, happy and innovative while working on this project.
-I think and hope , All the users would like this system ! shouldn’t it ?
 
 You can download this project from here : https://drive.google.com/file/d/1SOs3I9xzrV_mVK9EwwFwLzU65K6KcP3C/view?usp=sharing
 
-
->Thanks and Regards !
-  
-  **Narayan** 
-
-
-
-
-
->## HOW TO RUN THE  PROJECT :
-    Just Install the app in your Android device and enjoy it .
-    
-    
-  
-  
     
 >## FOLLOWING ARE SOME ADORABLE SNIPS OF THE THIS PROJECT  :
 
